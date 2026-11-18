@@ -90,21 +90,21 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
-      - name: Generate pin card (mmwx-probe-theme-adapter)
-        uses: stats-organization/github-readme-stats-action@v2
-        with:
-          card: pin
-          options: username=sunnyhmz7010&repo=mmwx-probe-theme-adapter&show=issues_authored,issues_commented
-          path: dist/pin-mmwx-probe-theme-adapter.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-          fail_on_error: true
-
       - name: Generate pin card (halo-plugin-simnook)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: pin
           options: username=sunnyhmz7010&repo=halo-plugin-simnook&show=issues_authored,issues_commented
           path: dist/pin-halo-plugin-simnook.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate pin card (mmwx-probe-theme-adapter)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: pin
+          options: username=sunnyhmz7010&repo=mmwx-probe-theme-adapter&show=issues_authored,issues_commented
+          path: dist/pin-mmwx-probe-theme-adapter.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           fail_on_error: true
 
