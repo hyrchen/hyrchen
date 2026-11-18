@@ -34,9 +34,6 @@
   <a href="https://github.com/Ryrant/wenqu-chinese-learning-platform">
     <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-wenqu-chinese-learning-platform.svg" alt="wenqu-chinese-learning-platform" width="49%" />
   </a>
-  <a href="https://github.com/sunnyhmz7010/halo-plugin-simnook">
-    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-halo-plugin-simnook.svg" alt="halo-plugin-simnook" width="49%" />
-  </a>
 </p>
 
 ### 🚀 活跃维护
@@ -48,10 +45,10 @@
   <a href="https://github.com/sunnyhmz7010/mmwx-probe-theme-adapter">
     <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-mmwx-probe-theme-adapter.svg" alt="mmwx-probe-theme-adapter" width="49%" />
   </a>
+  <a href="https://github.com/sunnyhmz7010/halo-plugin-simnook">
+    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-halo-plugin-simnook.svg" alt="halo-plugin-simnook" width="49%" />
+  </a>
   <a href="https://github.com/sunnyhmz7010/SeedMeow">
     <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-SeedMeow.svg" alt="SeedMeow" width="49%" />
-  </a>
-  <a href="https://github.com/MengMengCode/VoCat">
-    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-VoCat.svg" alt="VoCat" width="49%" />
   </a>
 </p>
