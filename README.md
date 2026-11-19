@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyrchen/hyrchen/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyrchen/hyrchen/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## 👋 关于我  
@@ -16,39 +16,39 @@
 <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="160" alt="buymeacoffee" />
 </a>
 
-![Stats](https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/stats.svg "继续努力~")
-![Top Languages](https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/top-langs.svg)
+![Stats](https://raw.githubusercontent.com/hyrchen/hyrchen/output/stats.svg "继续努力~")
+![Top Languages](https://raw.githubusercontent.com/hyrchen/hyrchen/output/top-langs.svg)
 
 ### 🚧 正在开发
 
 <p align="center">
-  <a href="https://github.com/sunnyhmz7010/HashDrop">
-    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-HashDrop.svg" alt="HashDrop" width="49%" />
+  <a href="https://github.com/hyrchen/HashDrop">
+    <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-HashDrop.svg" alt="HashDrop" width="49%" />
   </a>
-  <a href="https://github.com/sunnyhmz7010/Trylet">
-    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-Trylet.svg" alt="Trylet" width="49%" />
+  <a href="https://github.com/hyrchen/Trylet">
+    <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-Trylet.svg" alt="Trylet" width="49%" />
   </a>
-  <a href="https://github.com/sunnyhmz7010/jnu-cli">
-    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-jnu-cli.svg" alt="jnu-cli" width="49%" />
+  <a href="https://github.com/hyrchen/jnu-cli">
+    <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-jnu-cli.svg" alt="jnu-cli" width="49%" />
   </a>
   <a href="https://github.com/Ryrant/wenqu-chinese-learning-platform">
-    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-wenqu-chinese-learning-platform.svg" alt="wenqu-chinese-learning-platform" width="49%" />
+    <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-wenqu-chinese-learning-platform.svg" alt="wenqu-chinese-learning-platform" width="49%" />
   </a>
 </p>
 
 ### 🚀 活跃维护
 
 <p align="center">
-  <a href="https://github.com/sunnyhmz7010/halo-plugin-schedule-calendar">
-    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-halo-plugin-schedule-calendar.svg" alt="halo-plugin-schedule-calendar" width="49%" />
+  <a href="https://github.com/hyrchen/halo-plugin-schedule-calendar">
+    <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-halo-plugin-schedule-calendar.svg" alt="halo-plugin-schedule-calendar" width="49%" />
   </a>
-  <a href="https://github.com/sunnyhmz7010/halo-plugin-simnook">
-    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-halo-plugin-simnook.svg" alt="halo-plugin-simnook" width="49%" />
+  <a href="https://github.com/hyrchen/halo-plugin-simnook">
+    <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-halo-plugin-simnook.svg" alt="halo-plugin-simnook" width="49%" />
   </a>
-  <a href="https://github.com/sunnyhmz7010/mmwx-probe-theme-adapter">
-    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-mmwx-probe-theme-adapter.svg" alt="mmwx-probe-theme-adapter" width="49%" />
+  <a href="https://github.com/hyrchen/mmwx-probe-theme-adapter">
+    <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-mmwx-probe-theme-adapter.svg" alt="mmwx-probe-theme-adapter" width="49%" />
   </a>
-  <a href="https://github.com/sunnyhmz7010/SeedMeow">
-    <img src="https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/output/pin-SeedMeow.svg" alt="SeedMeow" width="49%" />
+  <a href="https://github.com/hyrchen/SeedMeow">
+    <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-SeedMeow.svg" alt="SeedMeow" width="49%" />
   </a>
 </p>

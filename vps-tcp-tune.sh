@@ -3,7 +3,7 @@
 # 脚本原仓库：https://github.com/Eric86777/vps-tcp-tune
 
 # 在线运行：使用 -q 忽略本机 curlrc，并用时间戳参数确保获取最新版本（无缓存）
-# bash <(curl -q -fsSL "https://raw.githubusercontent.com/sunnyhmz7010/sunnyhmz7010/refs/heads/main/vps-tcp-tune.sh?$(date +%s)")
+# bash <(curl -q -fsSL "https://raw.githubusercontent.com/hyrchen/hyrchen/refs/heads/main/vps-tcp-tune.sh?$(date +%s)")
 
 # 修复旧版脚本的 DNS 启动配置
 # bash <(curl -q -fsSL "https://raw.githubusercontent.com/Eric86777/vps-tcp-tune/refs/heads/main/net-tcp-tune.sh?$(date +%s)") --repair-boot-recovery
