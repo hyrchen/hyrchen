@@ -25,9 +25,6 @@
   <a href="https://github.com/hyrchen/HashDrop">
     <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-HashDrop.svg" alt="HashDrop" width="49%" />
   </a>
-  <a href="https://github.com/hyrchen/Trylet">
-    <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-Trylet.svg" alt="Trylet" width="49%" />
-  </a>
   <a href="https://github.com/hyrchen/jnu-cli">
     <img src="https://raw.githubusercontent.com/hyrchen/hyrchen/output/pin-jnu-cli.svg" alt="jnu-cli" width="49%" />
   </a>
